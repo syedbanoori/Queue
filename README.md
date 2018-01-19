@@ -1,7 +1,8 @@
 # Queue
-This Queue was implemented using Stacks(Java)
+//This Queue was implemented using Stacks(Java)
 
-//Code 
+
+
 class MyQueue {
     Stack<Integer> myStack;
     //Stack<Integer> myQueueStack;
